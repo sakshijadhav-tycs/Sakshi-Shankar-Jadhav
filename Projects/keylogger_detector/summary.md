@@ -1,8 +1,8 @@
-### 🔐 **Keylogger Detector – Project Summary**
+ **Keylogger Detector – Project Summary**
 
 This project is a **desktop application** built using **Python** and **Tkinter GUI**. It helps users **detect and remove keyloggers** (malicious programs that secretly record what you type).
 
-### 💡 **What the App Does:**
+ **What the App Does:**
 
 1.  **Welcome Page**
     
@@ -43,7 +43,7 @@ This project is a **desktop application** built using **Python** and **Tkinter G
     *   **Exit Button**: Allows safe app exit with confirmation
         
 
-### 🛠 Technologies Used:
+ Technologies Used:
 
 *   **Python**
     
@@ -52,6 +52,6 @@ This project is a **desktop application** built using **Python** and **Tkinter G
 *   **psutil** – to monitor processes and system info
     
 
-### ✅ Overall Purpose:
+ Overall Purpose:
 
 This app provides **a simple way to check for and remove suspicious keylogger software**, helping users **protect their privacy and security**.
