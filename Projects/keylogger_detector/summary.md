@@ -43,7 +43,7 @@ This project is a **desktop application** built using **Python** and **Tkinter G
     *   **Exit Button**: Allows safe app exit with confirmation
         
 
- Technologies Used:
+ **Technologies Used:**
 
 *   **Python**
     
@@ -52,6 +52,6 @@ This project is a **desktop application** built using **Python** and **Tkinter G
 *   **psutil** – to monitor processes and system info
     
 
- Overall Purpose:
+ **Overall Purpose:**
 
 This app provides **a simple way to check for and remove suspicious keylogger software**, helping users **protect their privacy and security**.
